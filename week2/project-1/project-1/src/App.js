@@ -1,8 +1,8 @@
 import React from "react"
-import Card from "./components/Blogs"
-import Footer from "./components/Footer"
-import Header from "./components/Header"
-import Blogs from "./components/Blogs"
+import Card from "./Components/Card"
+import Footer from "./Components/Footer"
+import Header from "./Components/Header"
+
 
 function App() {
     return (
